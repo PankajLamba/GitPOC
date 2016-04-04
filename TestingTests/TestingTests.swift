@@ -37,7 +37,7 @@ class TestingTests: XCTestCase {
         me.firstName = "Pankaj"
         me.lastName = "Lamba"
         
-        XCTAssertEqual(me.fullName, "Pankaj Lamba", "The full name should be equal to \"Pankaj Lamba\".")
+        XCTAssertEqual(me.fullName, "Pankaj Lamba", "The full nameshould be equal to \"Pankaj Lamba\".")
     }
     
     func testLoginWithCredential() {

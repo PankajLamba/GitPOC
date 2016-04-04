@@ -14,7 +14,7 @@ struct User {
     
     var fullName: String {
         get {
-            return firstName + " " + lastName
+            return firstName + "" + lastName
         }
     }
 }
