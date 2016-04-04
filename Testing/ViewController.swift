@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         //Added the color to view controller background
-        //Added one more comment for testing git repository feature
+        //Added one more comment for testing tfs repository feature
         self.view.backgroundColor = UIColor.greenColor()
     }
 
